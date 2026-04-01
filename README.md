@@ -35,7 +35,8 @@ Learning graphics programming from [learnopengl.com](https://learnopengl.com).
 
 ## Currently Learning
 
-- Go (boot.dev learning path)
+- ASCII rendering
+- TUI rendering
 - OpenGL / Graphics Programming
 - Building Chirpy
 
