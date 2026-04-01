@@ -31,6 +31,8 @@ Personal project. Still in development.
 
 Learning graphics programming from [learnopengl.com](https://learnopengl.com).
 
+![Demo](https://raw.githubusercontent.com/RyanDev-21/OpenGL/main/Demo.gif)
+
 ## Currently Learning
 
 - Go (boot.dev learning path)
