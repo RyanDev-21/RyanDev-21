@@ -1,6 +1,8 @@
 # RyanDev-21
 
-<img src="MyCartoon.png" width="200"/>
+<p align="center">
+  <img src="MyCartoon.png" width="200"/>
+</p>
 
 Building things with Go
 
@@ -18,12 +20,15 @@ Go developer on a learning journey. Currently exploring backend development and 
 ## Projects
 
 ### [tcpToHttp](https://github.com/RyanDev-21/tcpToHttp)
+
 Learning project from boot.dev's primeAgen course. A TCP to HTTP proxy built in Go.
 
 ### [Chirpy](https://github.com/RyanDev-21/Chirpy)
+
 Personal project. Still in development.
 
 ### [OpenGL](https://github.com/RyanDev-21/OpenGL)
+
 Learning graphics programming from [learnopengl.com](https://learnopengl.com).
 
 ## Currently Learning
