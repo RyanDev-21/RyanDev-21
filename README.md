@@ -4,18 +4,17 @@
   <img src="MyCartoon.png" width="200"/>
 </p>
 
-Building things with Go
+Learning Go, C++, and TypeScript — one project at a time
 
 ## About
 
-Go developer on a learning journey. Currently exploring backend development and graphics programming. Always working on something new and trying to improve.
+Learning emulators, interpreters, and graphics programming by building things.
 
 ## Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ## Projects
 
