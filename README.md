@@ -19,6 +19,18 @@ Go developer on a learning journey. Currently exploring backend development and 
 
 ## Projects
 
+### [GameBoy.Emu](https://github.com/RyanDev-21/GameBoy.Emu)
+
+Game Boy emulator in C++17 with SDL2. Currently in development.
+
+### [Chip8.Emu](https://github.com/RyanDev-21/Chip8.Emu)
+
+CHIP-8 emulator/interpreter written in C++17 with SDL2. Runs at ~600 IPS with a fixed 60Hz frame rate. Plays classic CHIP-8 ROMs like PONG, INVADERS, and BLITZ.
+
+### [Interpretor](https://github.com/RyanDev-21/Interpretor)
+
+A multi-language implementation of the AdaWong programming language — a tree-walking interpreter with lexer, parser, AST, and evaluator. The Go version is fully featured (first-class functions, closures, lexical scoping, arrays, hashes), with C, Rust, and TypeScript implementations in progress.
+
 ### [tcpToHttp](https://github.com/RyanDev-21/tcpToHttp)
 
 Learning project from boot.dev's primeAgen course. A TCP to HTTP proxy built in Go.
@@ -35,10 +47,9 @@ Learning graphics programming from [learnopengl.com](https://learnopengl.com).
 
 ## Currently Learning
 
-- ASCII rendering
-- TUI rendering
+- Emulation (CHIP-8, Game Boy)
+- Interpreter design
 - OpenGL / Graphics Programming
-- Building Chirpy
 
 ## Connect
 
