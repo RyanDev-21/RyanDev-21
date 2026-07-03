@@ -38,6 +38,10 @@ Learning project from boot.dev's primeAgen course. A TCP to HTTP proxy built in 
 
 Personal project. Still in development.
 
+### [Projector](https://github.com/RyanDev-21/project)
+
+Learning project from The Primeagen's Polyglot Programmers course. A hierarchical key-value config manager implemented in Go, Rust, and TypeScript. Values are scoped by directory path with inheritance — walking up the tree from `cwd` to root.
+
 ### [OpenGL](https://github.com/RyanDev-21/OpenGL)
 
 Learning graphics programming from [learnopengl.com](https://learnopengl.com).
